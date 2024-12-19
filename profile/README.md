@@ -7,3 +7,4 @@ Cette organisation a pour but de concentrer tous les laboratoires effectués lor
 - [Lab05](https://github.com/POO-Lestiboudois-Parisod/Lab05)
 - [Lab06](https://github.com/POO-Lestiboudois-Parisod/Lab06)
 - [Lab07](https://github.com/POO-Lestiboudois-Parisod/Lab07)
+- [Lab08](https://github.com/POO-Lestiboudois-Parisod/Lab08)
